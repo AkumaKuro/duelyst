@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d1mr0vmr0yjl7"
+path="res://.godot/imported/FXAAFragment.glsl-7e2e4c0cc8f05579181a9097dee52669.res"
+
+[deps]
+
+source_file="res://app/shaders/FXAAFragment.glsl"
+dest_files=["res://.godot/imported/FXAAFragment.glsl-7e2e4c0cc8f05579181a9097dee52669.res"]
+
+[params]
+

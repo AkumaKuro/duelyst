@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://g5n11m8fekmg"
+path="res://.godot/imported/RiftLineFragment.glsl-ee6386da1aedb8adf223bcb844f3340d.res"
+
+[deps]
+
+source_file="res://app/shaders/RiftLineFragment.glsl"
+dest_files=["res://.godot/imported/RiftLineFragment.glsl-ee6386da1aedb8adf223bcb844f3340d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dtdtw0517npcv"
+path="res://.godot/imported/EnergyBallFragment.glsl-ffa834c013e56fc0241fc934240e92f4.res"
+
+[deps]
+
+source_file="res://app/shaders/EnergyBallFragment.glsl"
+dest_files=["res://.godot/imported/EnergyBallFragment.glsl-ffa834c013e56fc0241fc934240e92f4.res"]
+
+[params]
+

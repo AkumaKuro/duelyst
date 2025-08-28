@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d26xtywveoop1"
+path="res://.godot/imported/CardAngledGradientShine.glsl-3204378b3ec3d1cd40ab74b07d7b30bd.res"
+
+[deps]
+
+source_file="res://app/shaders/CardAngledGradientShine.glsl"
+dest_files=["res://.godot/imported/CardAngledGradientShine.glsl-3204378b3ec3d1cd40ab74b07d7b30bd.res"]
+
+[params]
+

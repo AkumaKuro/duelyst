@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://6vbxkueev8j7"
+path="res://.godot/imported/DistortionVertex.glsl-5b70b25760bc65e0f240831a496388fc.res"
+
+[deps]
+
+source_file="res://app/shaders/DistortionVertex.glsl"
+dest_files=["res://.godot/imported/DistortionVertex.glsl-5b70b25760bc65e0f240831a496388fc.res"]
+
+[params]
+

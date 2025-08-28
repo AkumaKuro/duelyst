@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d1cso6gnu1y2t"
+path="res://.godot/imported/FbmNoiseRays.glsl-5394d422f069e7c332165613caff6361.res"
+
+[deps]
+
+source_file="res://app/shaders/FbmNoiseRays.glsl"
+dest_files=["res://.godot/imported/FbmNoiseRays.glsl-5394d422f069e7c332165613caff6361.res"]
+
+[params]
+

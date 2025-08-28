@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dxsu0defsicin"
+path="res://.godot/imported/Noise3D.glsl-0315b1a8dfc7f72057ea15f561b0bcf6.res"
+
+[deps]
+
+source_file="res://app/shaders/helpers/Noise3D.glsl"
+dest_files=["res://.godot/imported/Noise3D.glsl-0315b1a8dfc7f72057ea15f561b0bcf6.res"]
+
+[params]
+

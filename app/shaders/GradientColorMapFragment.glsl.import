@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dew37a0tnlcl2"
+path="res://.godot/imported/GradientColorMapFragment.glsl-667b35c5c88b29c210e80699f1add956.res"
+
+[deps]
+
+source_file="res://app/shaders/GradientColorMapFragment.glsl"
+dest_files=["res://.godot/imported/GradientColorMapFragment.glsl-667b35c5c88b29c210e80699f1add956.res"]
+
+[params]
+

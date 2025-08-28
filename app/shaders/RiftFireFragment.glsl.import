@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b8a0mayfvbfeo"
+path="res://.godot/imported/RiftFireFragment.glsl-a22bbd1b10eb351705a4c0d450f96d75.res"
+
+[deps]
+
+source_file="res://app/shaders/RiftFireFragment.glsl"
+dest_files=["res://.godot/imported/RiftFireFragment.glsl-a22bbd1b10eb351705a4c0d450f96d75.res"]
+
+[params]
+

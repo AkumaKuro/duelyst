@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b21pcrwq11b7n"
+path="res://.godot/imported/DepthTestVertex.glsl-98350d43bb030fdfa5bafb93fea52ecf.res"
+
+[deps]
+
+source_file="res://app/shaders/DepthTestVertex.glsl"
+dest_files=["res://.godot/imported/DepthTestVertex.glsl-98350d43bb030fdfa5bafb93fea52ecf.res"]
+
+[params]
+

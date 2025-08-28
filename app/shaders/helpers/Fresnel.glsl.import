@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://brniboq0bi0bi"
+path="res://.godot/imported/Fresnel.glsl-fc235c878702f10393a68281a8c3180c.res"
+
+[deps]
+
+source_file="res://app/shaders/helpers/Fresnel.glsl"
+dest_files=["res://.godot/imported/Fresnel.glsl-fc235c878702f10393a68281a8c3180c.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://47xdo1d45f2f"
+path="res://.godot/imported/CausticFragment.glsl-86f7ed4d27eb3a9b7db014ee34f36c4d.res"
+
+[deps]
+
+source_file="res://app/shaders/CausticFragment.glsl"
+dest_files=["res://.godot/imported/CausticFragment.glsl-86f7ed4d27eb3a9b7db014ee34f36c4d.res"]
+
+[params]
+

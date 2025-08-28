@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bb61754cwh3n8"
+path="res://.godot/imported/AdjustLevels.glsl-7b90b2d8a642af8a034279e06e2330a0.res"
+
+[deps]
+
+source_file="res://app/shaders/helpers/AdjustLevels.glsl"
+dest_files=["res://.godot/imported/AdjustLevels.glsl-7b90b2d8a642af8a034279e06e2330a0.res"]
+
+[params]
+

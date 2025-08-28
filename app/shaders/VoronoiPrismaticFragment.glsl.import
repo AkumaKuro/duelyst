@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cm1lx2hpkflpp"
+path="res://.godot/imported/VoronoiPrismaticFragment.glsl-a003e99d5cbff96cf080e2b9f54975ae.res"
+
+[deps]
+
+source_file="res://app/shaders/VoronoiPrismaticFragment.glsl"
+dest_files=["res://.godot/imported/VoronoiPrismaticFragment.glsl-a003e99d5cbff96cf080e2b9f54975ae.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d2jcusnm8mdye"
+path="res://.godot/imported/DepthTestFragment.glsl-9d8f06e70a1bbf607d1876cea0180100.res"
+
+[deps]
+
+source_file="res://app/shaders/DepthTestFragment.glsl"
+dest_files=["res://.godot/imported/DepthTestFragment.glsl-9d8f06e70a1bbf607d1876cea0180100.res"]
+
+[params]
+

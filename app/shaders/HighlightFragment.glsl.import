@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://jgulimvrfpdw"
+path="res://.godot/imported/HighlightFragment.glsl-9f5dc12d1f3cf63780f0bfd3e9b4a4a7.res"
+
+[deps]
+
+source_file="res://app/shaders/HighlightFragment.glsl"
+dest_files=["res://.godot/imported/HighlightFragment.glsl-9f5dc12d1f3cf63780f0bfd3e9b4a4a7.res"]
+
+[params]
+

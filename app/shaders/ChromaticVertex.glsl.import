@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://clxs31gi63ic3"
+path="res://.godot/imported/ChromaticVertex.glsl-9228507a7c69bec37b1d2d50f28a5ae2.res"
+
+[deps]
+
+source_file="res://app/shaders/ChromaticVertex.glsl"
+dest_files=["res://.godot/imported/ChromaticVertex.glsl-9228507a7c69bec37b1d2d50f28a5ae2.res"]
+
+[params]
+

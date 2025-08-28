@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cv1bggjnk0082"
+path="res://.godot/imported/LensFlareFragment.glsl-a9f0f0c5138ed12f92c79a27d606ad2d.res"
+
+[deps]
+
+source_file="res://app/shaders/LensFlareFragment.glsl"
+dest_files=["res://.godot/imported/LensFlareFragment.glsl-a9f0f0c5138ed12f92c79a27d606ad2d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://rialbhod52np"
+path="res://.godot/imported/DissolveFragment.glsl-a2cd5ca81ec9e8a745ed358f2756e74d.res"
+
+[deps]
+
+source_file="res://app/shaders/DissolveFragment.glsl"
+dest_files=["res://.godot/imported/DissolveFragment.glsl-a2cd5ca81ec9e8a745ed358f2756e74d.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://nvyco53sqmfu"
+path="res://.godot/imported/DissolveFromCenterWithDiscFragment.glsl-9d7481280ce7e0abaecb62c4e91da8a4.res"
+
+[deps]
+
+source_file="res://app/shaders/DissolveFromCenterWithDiscFragment.glsl"
+dest_files=["res://.godot/imported/DissolveFromCenterWithDiscFragment.glsl-9d7481280ce7e0abaecb62c4e91da8a4.res"]
+
+[params]
+

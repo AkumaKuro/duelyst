@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bnx1f0xbl0bln"
+path="res://.godot/imported/ScatterRaysFragment.glsl-940f81984ea059fc7b1462ad960c4208.res"
+
+[deps]
+
+source_file="res://app/shaders/ScatterRaysFragment.glsl"
+dest_files=["res://.godot/imported/ScatterRaysFragment.glsl-940f81984ea059fc7b1462ad960c4208.res"]
+
+[params]
+

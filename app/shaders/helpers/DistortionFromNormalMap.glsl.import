@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c5v2yh764n3ad"
+path="res://.godot/imported/DistortionFromNormalMap.glsl-9a203e61a93e44a2a5b67e209bb01c0c.res"
+
+[deps]
+
+source_file="res://app/shaders/helpers/DistortionFromNormalMap.glsl"
+dest_files=["res://.godot/imported/DistortionFromNormalMap.glsl-9a203e61a93e44a2a5b67e209bb01c0c.res"]
+
+[params]
+

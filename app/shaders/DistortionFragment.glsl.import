@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bbtjqn1wnieb7"
+path="res://.godot/imported/DistortionFragment.glsl-6bbce91e521e35f8c6d441fb7ede38ff.res"
+
+[deps]
+
+source_file="res://app/shaders/DistortionFragment.glsl"
+dest_files=["res://.godot/imported/DistortionFragment.glsl-6bbce91e521e35f8c6d441fb7ede38ff.res"]
+
+[params]
+

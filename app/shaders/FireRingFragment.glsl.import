@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ngi1it3sm183"
+path="res://.godot/imported/FireRingFragment.glsl-644b9ba21987c8e6bad867b42dcbe8cf.res"
+
+[deps]
+
+source_file="res://app/shaders/FireRingFragment.glsl"
+dest_files=["res://.godot/imported/FireRingFragment.glsl-644b9ba21987c8e6bad867b42dcbe8cf.res"]
+
+[params]
+

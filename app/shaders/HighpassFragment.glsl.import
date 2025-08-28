@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bw4fmxlp0xsca"
+path="res://.godot/imported/HighpassFragment.glsl-3a45220d8ce7ebe6fe3fb14616d2d360.res"
+
+[deps]
+
+source_file="res://app/shaders/HighpassFragment.glsl"
+dest_files=["res://.godot/imported/HighpassFragment.glsl-3a45220d8ce7ebe6fe3fb14616d2d360.res"]
+
+[params]
+

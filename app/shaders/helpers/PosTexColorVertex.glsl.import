@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://6r1db16byw36"
+path="res://.godot/imported/PosTexColorVertex.glsl-10ae60d2be127e0baf85cb21d67d6310.res"
+
+[deps]
+
+source_file="res://app/shaders/helpers/PosTexColorVertex.glsl"
+dest_files=["res://.godot/imported/PosTexColorVertex.glsl-10ae60d2be127e0baf85cb21d67d6310.res"]
+
+[params]
+

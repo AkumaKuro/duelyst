@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bk0dpa34wbnit"
+path="res://.godot/imported/SeededRandom.glsl-dc5827b150597dfada8ffb854b745d8d.res"
+
+[deps]
+
+source_file="res://app/shaders/helpers/SeededRandom.glsl"
+dest_files=["res://.godot/imported/SeededRandom.glsl-dc5827b150597dfada8ffb854b745d8d.res"]
+
+[params]
+

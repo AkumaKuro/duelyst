@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ckxjx3ftlwcv"
+path="res://.godot/imported/MultipliedLightingFragment.glsl-1f5901124136896d91b1700f4d5b2e36.res"
+
+[deps]
+
+source_file="res://app/shaders/MultipliedLightingFragment.glsl"
+dest_files=["res://.godot/imported/MultipliedLightingFragment.glsl-1f5901124136896d91b1700f4d5b2e36.res"]
+
+[params]
+

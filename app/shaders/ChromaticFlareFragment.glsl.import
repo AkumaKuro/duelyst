@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cmp24pvpnx5cx"
+path="res://.godot/imported/ChromaticFlareFragment.glsl-ddb3d9bbb8cac3ff6c631c2bb08329d9.res"
+
+[deps]
+
+source_file="res://app/shaders/ChromaticFlareFragment.glsl"
+dest_files=["res://.godot/imported/ChromaticFlareFragment.glsl-ddb3d9bbb8cac3ff6c631c2bb08329d9.res"]
+
+[params]
+

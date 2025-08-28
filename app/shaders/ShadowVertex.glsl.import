@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bdvtqbetcuq7g"
+path="res://.godot/imported/ShadowVertex.glsl-ceca258310ce83af67073c5b9c9eb8c9.res"
+
+[deps]
+
+source_file="res://app/shaders/ShadowVertex.glsl"
+dest_files=["res://.godot/imported/ShadowVertex.glsl-ceca258310ce83af67073c5b9c9eb8c9.res"]
+
+[params]
+

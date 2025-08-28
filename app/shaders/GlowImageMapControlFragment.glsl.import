@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bcimu1bl36oeg"
+path="res://.godot/imported/GlowImageMapControlFragment.glsl-03fe92a4078c557345c889a9a6e0e9bb.res"
+
+[deps]
+
+source_file="res://app/shaders/GlowImageMapControlFragment.glsl"
+dest_files=["res://.godot/imported/GlowImageMapControlFragment.glsl-03fe92a4078c557345c889a9a6e0e9bb.res"]
+
+[params]
+

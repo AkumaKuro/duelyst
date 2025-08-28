@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dtlj18gshtljt"
+path="res://.godot/imported/GlowImageMapRippleFragment.glsl-952e1ff77c1c1d459eacba62904dce72.res"
+
+[deps]
+
+source_file="res://app/shaders/GlowImageMapRippleFragment.glsl"
+dest_files=["res://.godot/imported/GlowImageMapRippleFragment.glsl-952e1ff77c1c1d459eacba62904dce72.res"]
+
+[params]
+

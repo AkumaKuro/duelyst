@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dxb6hjthfipnx"
+path="res://.godot/imported/DepthPack.glsl-c9592b0005f069d4869106efedf44aed.res"
+
+[deps]
+
+source_file="res://app/shaders/helpers/DepthPack.glsl"
+dest_files=["res://.godot/imported/DepthPack.glsl-c9592b0005f069d4869106efedf44aed.res"]
+
+[params]
+

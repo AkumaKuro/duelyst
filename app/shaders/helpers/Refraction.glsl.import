@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://v7c30ckyaxmm"
+path="res://.godot/imported/Refraction.glsl-6127b02e6fd91e037988f02917fb7524.res"
+
+[deps]
+
+source_file="res://app/shaders/helpers/Refraction.glsl"
+dest_files=["res://.godot/imported/Refraction.glsl-6127b02e6fd91e037988f02917fb7524.res"]
+
+[params]
+

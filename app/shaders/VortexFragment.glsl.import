@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cx03nytt48su8"
+path="res://.godot/imported/VortexFragment.glsl-76bdfaf812599c70139457e0b8cfae24.res"
+
+[deps]
+
+source_file="res://app/shaders/VortexFragment.glsl"
+dest_files=["res://.godot/imported/VortexFragment.glsl-76bdfaf812599c70139457e0b8cfae24.res"]
+
+[params]
+

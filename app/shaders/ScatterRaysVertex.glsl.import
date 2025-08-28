@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dldn246sdxd6o"
+path="res://.godot/imported/ScatterRaysVertex.glsl-40febd7536ce44a642e8e49375d32e52.res"
+
+[deps]
+
+source_file="res://app/shaders/ScatterRaysVertex.glsl"
+dest_files=["res://.godot/imported/ScatterRaysVertex.glsl-40febd7536ce44a642e8e49375d32e52.res"]
+
+[params]
+

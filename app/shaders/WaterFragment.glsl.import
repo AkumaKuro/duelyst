@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://oekhqyh4vpr2"
+path="res://.godot/imported/WaterFragment.glsl-f20cc399e49958368de35f346530cd0e.res"
+
+[deps]
+
+source_file="res://app/shaders/WaterFragment.glsl"
+dest_files=["res://.godot/imported/WaterFragment.glsl-f20cc399e49958368de35f346530cd0e.res"]
+
+[params]
+

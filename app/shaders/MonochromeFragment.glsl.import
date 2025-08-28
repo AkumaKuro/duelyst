@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bhwa0cdol2urs"
+path="res://.godot/imported/MonochromeFragment.glsl-3b2341cf6f4322c5c761efbc7390d77e.res"
+
+[deps]
+
+source_file="res://app/shaders/MonochromeFragment.glsl"
+dest_files=["res://.godot/imported/MonochromeFragment.glsl-3b2341cf6f4322c5c761efbc7390d77e.res"]
+
+[params]
+

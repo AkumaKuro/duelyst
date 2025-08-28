@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://3pw1fh86vppu"
+path="res://.godot/imported/ExtrusionBlurFragment.glsl-6552d709285ae9c1ea732a1a4353f609.res"
+
+[deps]
+
+source_file="res://app/shaders/ExtrusionBlurFragment.glsl"
+dest_files=["res://.godot/imported/ExtrusionBlurFragment.glsl-6552d709285ae9c1ea732a1a4353f609.res"]
+
+[params]
+

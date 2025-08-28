@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c2ac43ytkmktl"
+path="res://.godot/imported/NoiseAbsFBMOctaves6.glsl-290658ce2e26b6dd8f9fd4fd92c3c458.res"
+
+[deps]
+
+source_file="res://app/shaders/helpers/NoiseAbsFBMOctaves6.glsl"
+dest_files=["res://.godot/imported/NoiseAbsFBMOctaves6.glsl-290658ce2e26b6dd8f9fd4fd92c3c458.res"]
+
+[params]
+

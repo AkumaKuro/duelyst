@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://7ct3eg0d0gfp"
+path="res://.godot/imported/LensNoiseFragment.glsl-7e2004308e9272dabcf5d7599e765d33.res"
+
+[deps]
+
+source_file="res://app/shaders/LensNoiseFragment.glsl"
+dest_files=["res://.godot/imported/LensNoiseFragment.glsl-7e2004308e9272dabcf5d7599e765d33.res"]
+
+[params]
+

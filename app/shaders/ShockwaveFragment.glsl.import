@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bbafj2ibctemk"
+path="res://.godot/imported/ShockwaveFragment.glsl-63813fd02e17577aca338d21aaa14c42.res"
+
+[deps]
+
+source_file="res://app/shaders/ShockwaveFragment.glsl"
+dest_files=["res://.godot/imported/ShockwaveFragment.glsl-63813fd02e17577aca338d21aaa14c42.res"]
+
+[params]
+

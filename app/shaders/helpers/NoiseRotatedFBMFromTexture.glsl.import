@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bq65unac7366h"
+path="res://.godot/imported/NoiseRotatedFBMFromTexture.glsl-e70c3982d2c9eda5724e787690520a0d.res"
+
+[deps]
+
+source_file="res://app/shaders/helpers/NoiseRotatedFBMFromTexture.glsl"
+dest_files=["res://.godot/imported/NoiseRotatedFBMFromTexture.glsl-e70c3982d2c9eda5724e787690520a0d.res"]
+
+[params]
+
